@@ -1,4 +1,4 @@
-## Game Development mit der DragonRuby Engine – Ein Spiel in 4 Stunden
+## Ein Spiel in 4 Stunden
 
 **Wann:** 27. Juni 2022, 10 bis 14 Uhr
 **Wo:** Creative Hub Regensburg
