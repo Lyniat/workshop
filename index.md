@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Game Development mit der DragonRuby Engine – Ein Spiel in 4 Stunden
 
-You can use the [editor on GitHub](https://github.com/Lyniat/workshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Wann:** 27. Juni 2022, 10 bis 14 Uhr
+**Wo:** Creative Hub Regensburg
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Inhalt
+In dem 4-stündigen Workshop haben die Teilnehmenden die Chance mit der [DragonRuby Engine](https://dragonruby.org/toolkit/game) ihr eigenes Spiel zu entwickeln. Neben theoretischen Basics steht vor allem das selbstständige und spielerische entwickeln im Vordergrund.
+Ausgehend von einem Grundgerüst wird unter Anleitung ein eigenes Game geschaffen. Hierfür erhält jeder Teilnehmende eine Lizenz für die DragonRuby Engine und hat so die Möglichkeit das Erlernte auch nach dem Workshop weiterauszubauen.
 
-### Markdown
+### Das wird benötigt
+- Erste Erfahrungen im Programmieren
+- Ein eigener Laptop mit Windows, macOS oder Linux
+- Ein Account auf [itch.io](https://itch.io)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lyniat/workshop/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Software
+- Jeder Teilnehmer erhält vor Ort einen Key für die DragonRuby Engine
+- Grafiken werden im Browser mit Hilfe von [Pixelorama](https://orama-interactive.itch.io/pixelorama) (kostenlos) erstellt
+- Tool für Sounds: TBA
