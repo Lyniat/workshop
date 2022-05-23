@@ -16,3 +16,11 @@ Ausgehend von einem Grundgerüst wird unter Anleitung ein eigenes Game geschaffe
 - Jeder Teilnehmer erhält vor Ort einen Key für die DragonRuby Engine
 - Grafiken werden im Browser mit Hilfe von [Pixelorama](https://orama-interactive.itch.io/pixelorama) (kostenlos) erstellt
 - Tool für Sounds: TBA
+
+### Beispiele
+- [Pizza Frog](https://wauwaugirly.itch.io/pizza-frog)
+- [Das Eichhörnchen](https://github.com/Lyniat/eichhoernchen-ggj22)
+
+#### Bilder
+![Pizza Frog](/screenshots/pizza-frog.gif)
+![Platformer](/screenshots/collisions_2.gif)
