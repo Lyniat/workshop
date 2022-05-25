@@ -11,9 +11,11 @@ Ausgehend von einem Grundgerüst wird unter Anleitung ein eigenes Game geschaffe
 - Erste Erfahrungen im Programmieren
 - Ein eigener Laptop mit Windows, macOS oder Linux
 - Ein Account auf [itch.io](https://itch.io)
+- [VS Code](https://code.visualstudio.com) Am besten davor schon runterladen und installieren
 
 ### Software
 - Jeder Teilnehmer erhält vor Ort einen Key für die DragonRuby Engine
+- Coding in [VS Code](https://code.visualstudio.com) (Das Nutzen eines anderen Editors ist auch in Ordnung, Erfahrung mit diesem is jedoch dann Voraussetzung)
 - Grafiken werden im Browser mit Hilfe von [Pixelorama](https://orama-interactive.itch.io/pixelorama) (kostenlos) erstellt
 - Tool für Sounds: TBA
 
