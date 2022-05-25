@@ -2,6 +2,8 @@
 
 **Wann:** 27. Juni 2022, 10 bis 14 Uhr
 **Wo:** Creative Hub Regensburg
+**Wer:** [Laurin Muth von lyniat.games](https://lyniat.games) und hoffentlich du 😉
+**Kontakt:** [Discord](http://discord.lyniat.games)
 
 ### Inhalt
 In dem 4-stündigen Workshop haben die Teilnehmenden die Chance mit der [DragonRuby Engine](https://dragonruby.org/toolkit/game) ihr eigenes Spiel zu entwickeln. Neben theoretischen Basics steht vor allem das selbstständige und spielerische entwickeln im Vordergrund.
@@ -12,6 +14,7 @@ Ausgehend von einem Grundgerüst wird unter Anleitung ein eigenes Game geschaffe
 - Ein eigener Laptop mit Windows, macOS oder Linux
 - Ein Account auf [itch.io](https://itch.io)
 - [VS Code](https://code.visualstudio.com) Am besten davor schon runterladen und installieren
+- nicht benötigt aber empfohlen: [Discord](http://discord.lyniat.games)
 
 ### Software
 - Jeder Teilnehmer erhält vor Ort einen Key für die DragonRuby Engine
