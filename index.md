@@ -1,8 +1,11 @@
 ## Ein Spiel in 4 Stunden
 
 **Wann:** 27. Juni 2022, 10 bis 14 Uhr
+
 **Wo:** Creative Hub Regensburg
+
 **Wer:** [Laurin Muth von lyniat.games](https://lyniat.games) und hoffentlich du 😉
+
 **Kontakt:** [Discord](http://discord.lyniat.games)
 
 ### Inhalt
