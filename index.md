@@ -1,6 +1,6 @@
 ## Dein Einstieg in die Spieleentwicklung
 
-**Wann:** 22. Oktober 2022, 19 bis 10 Uhr
+**Wann:** 22. Oktober 2022, 19 bis 20 Uhr
 
 **Wo:** OTH Amberg
 
