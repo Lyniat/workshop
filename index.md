@@ -1,3 +1,28 @@
+## Dein Einstieg in die Spieleentwicklung
+
+**Wann:** 22. Oktober 2022, 19 bis 10 Uhr
+
+**Wo:** OTH Amberg
+
+**Wer:** [Laurin Muth von lyniat.games](https://lyniat.games)
+
+**Kontakt:** [Discord](http://discord.lyniat.games)
+
+### Material
+#### Game Engines
+[DragonRuby](https://dragonruby.org)
+[LÖVE](https://love2d.org)
+[Godot](https://godotengine.org)
+[Unity](https://unity.com)
+[Unreal Engine](https://www.unrealengine.com)
+
+#### Art und Design
+[Aseprite](https://www.aseprite.org)
+[Pixelorama](https://orama-interactive.itch.io/pixelorama)
+[Affinity Photo](https://affinity.serif.com/de/photo)
+[Affinity Design](https://affinity.serif.com/de/designer)
+[GIMP](https://www.gimp.org)
+
 ## Ein Spiel in 4 Stunden
 
 **Wann:** 27. Juni 2022, 10 bis 14 Uhr
