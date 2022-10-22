@@ -22,6 +22,7 @@
 - [Affinity Photo](https://affinity.serif.com/de/photo)
 - [Affinity Design](https://affinity.serif.com/de/designer)
 - [GIMP](https://www.gimp.org)
+- [blender](https://www.blender.org)
 
 #### Musik und Sounds
 - [Audacity](https://www.audacity.de)
