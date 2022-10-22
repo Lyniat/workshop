@@ -10,18 +10,28 @@
 
 ### Material
 #### Game Engines
-[DragonRuby](https://dragonruby.org)
-[LÖVE](https://love2d.org)
-[Godot](https://godotengine.org)
-[Unity](https://unity.com)
-[Unreal Engine](https://www.unrealengine.com)
+- [DragonRuby](https://dragonruby.org)
+- [LÖVE](https://love2d.org)
+- [Godot](https://godotengine.org)
+- [Unity](https://unity.com)
+- [Unreal Engine](https://www.unrealengine.com)
 
 #### Art und Design
-[Aseprite](https://www.aseprite.org)
-[Pixelorama](https://orama-interactive.itch.io/pixelorama)
-[Affinity Photo](https://affinity.serif.com/de/photo)
-[Affinity Design](https://affinity.serif.com/de/designer)
-[GIMP](https://www.gimp.org)
+- [Aseprite](https://www.aseprite.org)
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama)
+- [Affinity Photo](https://affinity.serif.com/de/photo)
+- [Affinity Design](https://affinity.serif.com/de/designer)
+- [GIMP](https://www.gimp.org)
+
+#### Musik und Sounds
+- [Audacity](https://www.audacity.de)
+- [Reaper] (https://www.reaper.fm)
+- [Milky Tracker](https://milkytracker.org)
+
+#### Assets
+- [itch.io](https://itch.io/game-assets)
+- [OpenGameArt](https://opengameart.org)
+- [freesound](https://freesound.org)
 
 ## Ein Spiel in 4 Stunden
 
