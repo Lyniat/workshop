@@ -26,13 +26,17 @@
 
 #### Musik und Sounds
 - [Audacity](https://www.audacity.de)
-- [Reaper] (https://www.reaper.fm)
+- [Reaper](https://www.reaper.fm)
 - [Milky Tracker](https://milkytracker.org)
 
 #### Assets
 - [itch.io](https://itch.io/game-assets)
 - [OpenGameArt](https://opengameart.org)
 - [freesound](https://freesound.org)
+
+#### Beispiele
+- [SAYONARA WILD HEARTS](https://simogo.com/work/sayonara-wild-hearts)
+- [The Stanley Parable](https://www.stanleyparable.com)
 
 ## Ein Spiel in 4 Stunden
 
