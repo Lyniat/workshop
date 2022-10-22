@@ -28,6 +28,7 @@
 - [Audacity](https://www.audacity.de)
 - [Reaper](https://www.reaper.fm)
 - [Milky Tracker](https://milkytracker.org)
+- [rFXGen](https://raylibtech.itch.io/rfxgen)
 
 #### Assets
 - [itch.io](https://itch.io/game-assets)
