@@ -29,6 +29,7 @@
 - [Reaper](https://www.reaper.fm)
 - [Milky Tracker](https://milkytracker.org)
 - [rFXGen](https://raylibtech.itch.io/rfxgen)
+- [Captain Plugins](https://mixedinkey.com/captain-plugins)
 
 #### Assets
 - [itch.io](https://itch.io/game-assets)
